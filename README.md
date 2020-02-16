@@ -11,11 +11,17 @@ In here there are two house price problem.One is house house-price and another i
 # Housing
 
 **Problem Statement**
+
 Consider a real estate company that has a dataset containing the prices of properties in the some region. It wishes to use the data to optimise the sale prices of the properties based on important factors such as area, bedrooms, parking, etc.
 
 
+
+
 **Dataset**
+
 Dataset is provided here,also it can be find in Kaggle.
+
+
 
 
 **Data Preparation**
@@ -23,6 +29,9 @@ Dataset is provided here,also it can be find in Kaggle.
 - Checking the pairplot
 - Check the co-relation matrix
 - Normalized the data
+
+
+
 
 
 **Building Model**
